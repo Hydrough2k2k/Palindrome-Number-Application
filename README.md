@@ -1,5 +1,6 @@
 # Palindrome-Number-Application
 Palindrome Number Calculator - A program to generate symmetrical numbers
+Inspired by Numberphile who made an excellent video about palindromic numbers!
 
 Using this application you can generate palindrome numbers by repeatedly reversing and adding a number. It is theorised that all numbers will become palindromic eventually using this method. Using this application you can test any number up to 18 digits. You can also test a range of number and see what they return
 
