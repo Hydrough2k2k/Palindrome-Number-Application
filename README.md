@@ -1,4 +1,4 @@
-# Palindrome-Number-Application
+# Palindrome Number Calculator Application
 Palindrome Number Calculator - A program to generate symmetrical numbers
 Inspired by Numberphile, they made an excellent video about palindromic numbers!
 
