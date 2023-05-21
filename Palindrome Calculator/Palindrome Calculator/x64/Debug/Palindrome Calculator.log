@@ -1,0 +1,84 @@
+﻿  Source.c
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(118,12): warning C4047: 'function': 'unsigned int' differs in levels of indirection from 'void *'
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(118,8): warning C4024: 'srand': different types for formal and actual parameter 1
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(120,2): warning C4013: 'consoleSetup' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(121,2): warning C4013: 'localConfigFileRead' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(125,2): warning C4013: 'mainMenu' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(132,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(163,3): warning C4013: 'configFileWrite' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(186,13): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(195,18): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(200,30): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(210,24): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(176,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(247,3): warning C4013: 'mainPrintMaxValue' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(249,3): warning C4013: 'mainPrintIteration' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(251,3): warning C4013: 'mainPrintTime' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(253,3): warning C4013: 'mainPrintOutputMode' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(255,3): warning C4013: 'mainPrintUpdateFrequency' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(257,3): warning C4013: 'mainPrintTxtFile' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(259,3): warning C4013: 'mainPrintAutoSave' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(308,25): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(417,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(572,2): warning C4013: 'clr' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(584,3): warning C4013: 'singleNumberCalculationSetup' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(588,3): warning C4013: 'range' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(592,3): warning C4013: 'settings' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(596,3): warning C4013: 'details' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(600,3): warning C4013: 'plannedFeatures' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(604,3): warning C4013: 'patchNotes' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(608,7): warning C4013: 'saveMenu' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(660,3): warning C4013: 'maxValueSettings' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(664,3): warning C4013: 'iterationsSettings' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(668,3): warning C4013: 'timeSettings' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(672,3): warning C4013: 'outputSettings' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(676,3): warning C4013: 'outputFrequencySettings' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(680,3): warning C4013: 'TXTOutputSettings' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(684,3): warning C4013: 'autosaveSettings' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(729,3): warning C4013: 'clrLn' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(734,2): warning C4013: 'drawMsgBox1' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(711,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(771,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(833,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(966,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(1084,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(1147,2): warning C4013: 'readSaveFileUntilComma' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(1241,2): warning C4013: 'readSaveFileData' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(1242,2): warning C4013: 'resumeCalculationFromSaveFile' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(1243,2): warning C4013: 'singleNumberCalculation' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(1269,34): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(1297,14): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(1309,14): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(1321,19): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(1378,16): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(1367,22): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(1368,19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(1405,16): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(1396,22): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(1514,3): warning C4013: 'mirror' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(1588,5): warning C4013: 'progressBar' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(1637,5): warning C4013: 'writeTxtResult' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(1648,5): warning C4013: 'saveTxtFile' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(1679,2): warning C4013: 'singleResult' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(1608,57): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(1728,2): warning C4013: 'prtTime' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(1766,2): warning C4013: 'singleResultInputPrint' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(1836,18): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(2002,5): warning C4013: 'pressToContinue' undefined; assuming extern returning int
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(2071,31): warning C4244: 'function': conversion from '__int64' to 'double', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(2072,31): warning C4244: 'function': conversion from '__int64' to 'double', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(2079,20): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(2164,9): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(2071,19): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(2072,22): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(2211,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(2243,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(2275,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(2365,18): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(2366,61): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(2523,11): warning C4047: 'return': 'int' differs in levels of indirection from 'char *'
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(2581,8): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(2633,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(2583): warning C4715: 'scanf_uint': not all control paths return a value
+C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\Palindrome Calculator\Source.c(2630): warning C4715: 'scanf_ullong': not all control paths return a value
+  Palindrome Calculator.vcxproj -> C:\Users\Hydrough\Desktop\Programs\CNew\Palindrome Calculator\x64\Debug\Palindrome Calculator.exe

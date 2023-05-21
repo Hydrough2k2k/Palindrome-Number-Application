@@ -1,0 +1,7 @@
+MaxDigits: 25000
+MaxIteraions: 0
+MaxTime: 0
+OutputMode: 3
+OutputFrequency: 3
+Output_To_TXT: 0
+Autosave_Interval: 300
