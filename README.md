@@ -11,3 +11,6 @@ You can customise many things in the application, maxtimum runtime, maximum numb
 If you would like an interesting starting seed, use 196, 295, 394 or 493. There are many others that might grow infinitely (theoretically), feel free to test any number!
 
 If you have any questions or feedback let me know! I still have a bucketlist for what features I would like to add.
+
+# Note: To run the application you need to download the exe file. It will create a small folder structure where the exe is located.
+You can also compile the application from the source code I provided in anything that supports GCC, for example Visual Studio.
