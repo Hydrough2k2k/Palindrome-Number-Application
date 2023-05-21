@@ -14,7 +14,7 @@ If you would like an interesting starting seed, use 196, 295, 394 or 493. There 
 
 If you have any questions or feedback let me know! I still have a bucketlist for what features I would like to add.
 
-# Note: To run the application you need to download and run the exe file.
+Note: To run the application you need to download and run the exe file or click the link above.
 It will create a small folder structure where the exe is located. Config.txt is the local configuration file. Manually editing it might cause some strange behaviour
 
 You can also compile the application from the source code I provided in anything that supports GCC, for example Visual Studio.
