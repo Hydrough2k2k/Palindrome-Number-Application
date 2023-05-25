@@ -1,5 +1,5 @@
 # Palindrome Number Calculator Application
-Palindrome Number Calculator - A program to generate symmetrical numbers
+Palindrome Number Calculator - A program to generate symmetrical numbers.
 Inspired by Numberphile, they made an excellent video about palindromic numbers, check it out!
 
 # Download the app [here](https://github.com/Hydrough2k2k/Palindrome-Number-Application/raw/main/Palindrome%20Calculator.exe)
