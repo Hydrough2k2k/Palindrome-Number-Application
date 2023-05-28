@@ -30,7 +30,6 @@ You can also compile the application from the source code I provided in anything
 
 # Compatibility:
 
-Windows 10 64 bit
-Windows 11 64 bit
+Windows 10 64 bit, Windows 11 64 bit
 
 There is no 32 bit version yet and no port for Linux and Mac OS
