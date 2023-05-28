@@ -27,3 +27,10 @@ To run the application you need to download and run the exe file or click the li
 It will create a small folder structure where the exe is located. Config.txt is the local configuration file. Manually editing it might cause some strange behaviour
 
 You can also compile the application from the source code I provided in anything that supports GCC, for example Visual Studio.
+
+# Compatibility:
+
+Windows 10 64 bit
+Windows 11 64 bit
+
+There is no 32 bit version yet and no port for Linux and Mac OS
