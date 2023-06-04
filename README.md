@@ -5,7 +5,7 @@ Inspired by Numberphile, they made an excellent video about palindromic numbers,
 
 # Download the app [here](https://github.com/Hydrough2k2k/Palindrome-Number-Application/raw/main/Palindrome%20Calculator.exe)
 
-Using this application you can generate palindrome numbers by repeatedly reversing and adding a number. It is theorised that all numbers will become palindromic eventually using this method. Using this application you can test any number up to 18 digits. You can also test a range of number and see what they return
+Using this application you can generate palindrome numbers by repeatedly reversing and adding a number. It is theorised that all numbers will become palindromic eventually using this method. Using this application you can test any number up to 18 digits. You can also test a range of numbers and see what they return
 
 # Features
 
